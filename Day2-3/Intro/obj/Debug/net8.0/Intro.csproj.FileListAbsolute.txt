@@ -1,0 +1,14 @@
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\bin\Debug\net8.0\Intro.exe
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\bin\Debug\net8.0\Intro.deps.json
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\bin\Debug\net8.0\Intro.runtimeconfig.json
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\bin\Debug\net8.0\Intro.dll
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\bin\Debug\net8.0\Intro.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\Intro.AssemblyInfoInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\Intro.AssemblyInfo.cs
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\Intro.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\Intro.dll
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\refint\Intro.dll
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\Intro.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\Intro.genruntimeconfig.cache
+C:\Users\fatih\OneDrive\Masaüstü\Dosyalar\Code\CSharp\KodlamaIO-2024\Day2-3\Intro\obj\Debug\net8.0\ref\Intro.dll
